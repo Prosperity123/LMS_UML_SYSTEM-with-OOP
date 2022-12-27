@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T13:37:03.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="lHDqbpvMd59WvDliBPIY" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T13:37:32.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="9d9Xn_MeQPkTF698J9m2" version="20.7.4" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1657" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           <mxGeometry x="60" y="683" width="80" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cB7NW5X62mQcqXQ4rlEp-29" value="&lt;font color=&quot;#141414&quot;&gt;&lt;b&gt;Teachers (Mentors)&lt;/b&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeColor=#000000;fontFamily=Helvetica;fontSize=20;fontColor=#F7F7F7;" vertex="1" parent="1">
-          <mxGeometry x="718" y="684" width="80" height="130" as="geometry" />
+          <mxGeometry x="740" y="686.75" width="80" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cB7NW5X62mQcqXQ4rlEp-32" value="MANAGE DISCORD" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily=Helvetica;fontSize=17;fontColor=#0D0D0D;" vertex="1" parent="1">
           <mxGeometry x="200" y="223" width="174" height="64" as="geometry" />
