@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T14:55:01.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mW7yQaK6PDEx5-R7bWBq" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-30T12:56:50.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="11_jF_RLZblN_pP6T4Kf" version="20.7.4" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="1396" dy="1224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1396" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,9 +69,6 @@
         </mxCell>
         <mxCell id="cB7NW5X62mQcqXQ4rlEp-47" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fontFamily=Helvetica;fontSize=17;fontColor=#0D0D0D;" parent="1" vertex="1">
           <mxGeometry x="46.5" y="543" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="cB7NW5X62mQcqXQ4rlEp-49" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Helvetica;fontColor=#0D0D0D;" parent="1" vertex="1">
-          <mxGeometry x="660" y="-405" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cB7NW5X62mQcqXQ4rlEp-51" value="ENROL&amp;nbsp; INTO DISCORD" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fontFamily=Helvetica;fontSize=10;fontColor=#0D0D0D;" parent="1" vertex="1">
           <mxGeometry x="66.5" y="573" width="90" height="30" as="geometry" />
