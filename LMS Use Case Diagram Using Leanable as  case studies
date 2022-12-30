@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-12-30T12:56:50.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="11_jF_RLZblN_pP6T4Kf" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-30T13:02:45.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mdH7p8cEJ2LlqeXx3z5K" version="20.7.4" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1396" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cB7NW5X62mQcqXQ4rlEp-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="193" y="123" width="481" height="900" as="geometry" />
+          <mxGeometry x="193" y="123" width="481" height="767" as="geometry" />
         </mxCell>
         <mxCell id="cB7NW5X62mQcqXQ4rlEp-5" value="LEARNABLE LMS USE CASE DIGRAM" style="html=1;fontFamily=Helvetica;fontStyle=1;fontSize=20;strokeColor=#CECECE;" parent="1" vertex="1">
           <mxGeometry x="272" y="143" width="370" height="50" as="geometry" />
